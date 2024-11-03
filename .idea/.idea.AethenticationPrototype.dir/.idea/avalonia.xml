@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="App.axaml" value="AethenticationPrototype.csproj" />
+        <entry key="MainWindow.axaml" value="AethenticationPrototype.csproj" />
+        <entry key="Styles/Styles.axaml" value="AethenticationPrototype.csproj" />
+        <entry key="View/LoginView.axaml" value="AethenticationPrototype.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
